@@ -16,5 +16,5 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarper)   
 
 
-</p> align="center"><img align="center" src="https://count.getloli.com/get/@NotHarper"></p>
+</p><img align="center" src="https://count.getloli.com/get/@NotHarper"></p>
 
