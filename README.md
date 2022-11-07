@@ -16,9 +16,5 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarper)   
 
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=NotHarper" alt="NotHarper" />
-</a>
-</p>
+<p align="center"><img align="center" src="https://count.getloli.com/get/@NotHarper"></p>
 
