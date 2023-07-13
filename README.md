@@ -1,7 +1,7 @@
 ### Hi, I am NotHarper 👋
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Nadia Client
+- 🔭 I’m currently working on Windy Client
 - 🌱 I’m currently learning C++
 - 💬 Ask me about minecraft/Java
 
